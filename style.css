@@ -11,6 +11,9 @@ body {
     padding:5px;
     margin:10px;
 }
+.list {
+    text-align:left;
+}
 #intro {
     font-family:serif;
     font-size: 9;
@@ -35,8 +38,8 @@ body {
 }
 #left-sidebar {
     position:absolute;
-    top:50px;
-    left:50px;
+    top:100px;
+    left:100px;
     width:200px;
     background-color: hsla(235, 51%, 19%, 0.75);
     border:5px ridge darkblue;
