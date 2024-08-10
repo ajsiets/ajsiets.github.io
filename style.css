@@ -18,6 +18,7 @@ body {
     color:rgb(241, 241, 241);
     width:80%;
     margin:auto;
+    margin-bottom:20px;
     text-align:left;
     text-indent:25px;
     border:5px darkgoldenrod ridge;
@@ -34,6 +35,10 @@ body {
     padding-bottom:0;
     margin-top:0;
     padding-bottom:0;
+}
+.blog-post img {
+    border:5px black ridge;
+    margin:auto;
 }
 #intro {
     font-family:serif;
